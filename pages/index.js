@@ -13,15 +13,10 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Bem Vindo Ao D'Gust APP
+          {`Bem Vindo Ao D'Gust APP`}
         </h1>
-
         <p className={styles.description}>Inovação financeira para restaurantes. Gerir o seu restaurante nunca foi tão acessível.</p>
-
-       
       </main>
-
-     
     </div>
   )
 }
